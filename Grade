@@ -1,9 +1,20 @@
+<channels>
+<channel>
+<name>[COLOR goldenrod]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR khaki]|||[/COLOR] [COLOR gold]GERAL[/COLOR]-[COLOR lime]01 - Temporada[/COLOR]-[COLOR white]LEG[/COLOR] [COLOR khaki]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR goldenrod]|||[/COLOR]</name>
+<thumbnail>=</thumbnail>
+<externallink>https://raw.githubusercontent.com/NacapaOverlord/GMC/main/A</externallink>
+<fanart>=</fanart>
+<info>
+
+[COLOR gold]|[/COLOR] -- [COLOR gold]|[/COLOR]</info>
+</channel>
+</channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
   <name>[COLOR goldenrod]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR khaki]|||[/COLOR] [COLOR white]A[/COLOR] [COLOR khaki]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR goldenrod]|||[/COLOR]</name>
 <thumbnail>https://archive.org/download/a_20211012/A.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/NacapaOverlord/GMC/main/A</externallink>
+<externallink></externallink>
 <fanart>https://archive.org/download/animes-fanart_202110/Animes%20fanart.jpg</fanart>
 <info>
 
