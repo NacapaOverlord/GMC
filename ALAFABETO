@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR goldenrod]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR khaki]|||[/COLOR] [COLOR gold]A[/COLOR] [COLOR khaki]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR goldenrod]|||[/COLOR]</name>
+<name>[COLOR goldenrod]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR khaki]|||[/COLOR] [COLOR lime]A[/COLOR] [COLOR khaki]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR goldenrod]|||[/COLOR]</name>
 <thumbnail>https://archive.org/download/a_20211012/A.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/NacapaOverlord/GMC/main/A</externallink>
 <fanart>https://archive.org/download/a_20211012/A.jpg</fanart>
@@ -14,7 +14,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR khaki]|||[/COLOR] [COLOR gold]==[/COLOR] [COLOR khaki]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR goldenrod]|||[/COLOR]</name>
+<name>[COLOR goldenrod]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR khaki]|||[/COLOR] [COLOR lime]==[/COLOR] [COLOR khaki]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR goldenrod]|||[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
