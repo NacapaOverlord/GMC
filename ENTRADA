@@ -3,7 +3,7 @@
 
 <channels>
 <channel>
-<name>[COLOR goldenrod]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR khaki]|||[/COLOR] [COLOR gold]ENTRAR[/COLOR] [COLOR khaki]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR goldenrod]|||[/COLOR]</name>
+<name>[COLOR goldenrod]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR khaki]|||[/COLOR] [COLOR blue]ANIMES[/COLOR] [COLOR khaki]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR goldenrod]|||[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20211012_20211012/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/NacapaOverlord/GMC/main/Grade</externallink>
 <fanart>https://archive.org/download/fanart_20211012_1753/fanart.jpg</fanart>
@@ -15,3 +15,39 @@
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR goldenrod]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR khaki]|||[/COLOR] [COLOR green]FILMES[/COLOR] [COLOR khaki]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR goldenrod]|||[/COLOR]</name>
+<thumbnail>https://archive.org/download/b_20211012/B.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/NacapaAddon/1-ADDON/master/A%C3%A7%C3%A3o</externallink>
+<fanart>https://archive.org/download/animes-fanart_202110/Animes%20fanart.jpg</fanart>
+<info>
+
+
+[COLOR gold]|[/COLOR] - Galaxy ADDON usa link de servidores de hospedagem da web para disponibilizar animes para você. - [COLOR gold]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR goldenrod]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR khaki]|||[/COLOR] [COLOR yellow]DESENHOS[/COLOR] [COLOR khaki]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR goldenrod]|||[/COLOR]</name>
+<thumbnail>https://archive.org/download/b_20211012/B.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/NacapaAddon/1-ADDON/master/A%C3%A7%C3%A3o</externallink>
+<fanart>https://archive.org/download/animes-fanart_202110/Animes%20fanart.jpg</fanart>
+<info>
+
+
+[COLOR gold]|[/COLOR] - Galaxy ADDON usa link de servidores de hospedagem da web para disponibilizar animes para você. - [COLOR gold]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
