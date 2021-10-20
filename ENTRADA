@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<marquee>[COLOR goldenrod]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR khaki]|||[/COLOR] [COLOR lime]ANIMES[/COLOR] [COLOR khaki]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR goldenrod]|||[/COLOR]</marquee>
+<name>[COLOR goldenrod]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR khaki]|||[/COLOR] [COLOR lime]ANIMES[/COLOR] [COLOR khaki]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR goldenrod]|||[/COLOR]</name>
 <thumbnail>https://archive.org/download/animes_20211020/ANIMES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/NacapaOverlord/GMC/main/Grade</externallink>
 <fanart>https://archive.org/download/fanart_20211012_1753/fanart.jpg</fanart>
