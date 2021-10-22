@@ -41,18 +41,20 @@
 </channel>
 </channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
 <channel>
 <name>[COLOR goldenrod]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR khaki]|||[/COLOR] [COLOR gold]Comédia[/COLOR] [COLOR khaki]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR goldenrod]|||[/COLOR]</name>
-<thumbnail>https://ia601509.us.archive.org/0/items/comedia_20200712/comedia.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/NacapaAddon/1-ADDON/master/Com%C3%A9dia</externallink>
-<fanart>https://archive.org/download/animes-fanart_202110/Animes%20fanart.jpg</fanart>
-<info>
+<thumbnail>https://archive.org/download/comedia_202110/com%C3%A9dia.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://archive.org/download/3_20211022_20211022_1411/3.png</fanart>
+<info>[COLOR lime][B]Aqui[/B] [/COLOR] - [COLOR blue]VOCÊ[/COLOR] - [COLOR lime] encontra todos os animes corespondentes a o gênero [COLOR white][B]Comédia[/B] [/COLOR] ,animes dos mais antigos até os lançamentos em boa qualidade, seja em[/COLOR] - [COLOR yellow]SD, HD e FHD.[/COLOR]
+  [COLOR blue]ANIMES[/COLOR] Dublados [COLOR yellow]DUB[/COLOR] - Legendados [COLOR orange]LEG[/COLOR]-[COLOR lime] AQUI [/COLOR]
 
 
-[COLOR gold]|[/COLOR] - Galaxy ADDON usa link de servidores de hospedagem da web para disponibilizar animes para você. - [COLOR gold]|[/COLOR]</info>
+
+</info>
 </channel>
 </channels>
 
