@@ -1,5 +1,19 @@
 <channels>
 <channel>
+<name>[COLOR goldenrod]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR khaki]|||[/COLOR] [COLOR lime]0-9-[/COLOR] [COLOR khaki]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR goldenrod]|||[/COLOR]</name>
+<thumbnail>https://archive.org/download/cc_20211023/cc.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/NacapaOverlord/GMC/main/0-9</externallink>
+<fanart>https://archive.org/download/cc_20211023/cc.jpg</fanart>
+<info>
+[COLOR lime][B]Aqui[/B] [/COLOR] - [COLOR blue]VOCÊ[/COLOR] - [COLOR lime] encontra todos os animes corespondentes com os nomes que iniciam com números [COLOR white][B]0-9[/B] [/COLOR] ,animes dos mais antigos até os lançamentos em boa qualidade, seja em[/COLOR] - [COLOR yellow]SD, HD e FHD.[/COLOR]
+  [COLOR blue]ANIMES[/COLOR] Dublados [COLOR yellow]DUB[/COLOR] - Legendados [COLOR orange]LEG[/COLOR]-[COLOR lime] AQUI [/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR goldenrod]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR khaki]|||[/COLOR] [COLOR lime]A[/COLOR] [COLOR khaki]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR goldenrod]|||[/COLOR]</name>
 <thumbnail>https://archive.org/download/a_20211012/A.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/NacapaOverlord/GMC/main/A</externallink>
@@ -12,18 +26,6 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<channels>
-<channel>
-<name>[COLOR goldenrod]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR khaki]|||[/COLOR] [COLOR lime]0-9-[/COLOR] [COLOR khaki]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR goldenrod]|||[/COLOR]</name>
-<thumbnail>https://archive.org/download/cc_20211023/cc.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/NacapaOverlord/GMC/main/0-9</externallink>
-<fanart>https://archive.org/download/cc_20211023/cc.jpg</fanart>
-<info>
-[COLOR lime][B]Aqui[/B] [/COLOR] - [COLOR blue]VOCÊ[/COLOR] - [COLOR lime] encontra todos os animes corespondentes com os nomes que iniciam com números [COLOR white][B]0-9[/B] [/COLOR] ,animes dos mais antigos até os lançamentos em boa qualidade, seja em[/COLOR] - [COLOR yellow]SD, HD e FHD.[/COLOR]
-  [COLOR blue]ANIMES[/COLOR] Dublados [COLOR yellow]DUB[/COLOR] - Legendados [COLOR orange]LEG[/COLOR]-[COLOR lime] AQUI [/COLOR]</info>
-</channel>
-</channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
